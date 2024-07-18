@@ -1,0 +1,11 @@
+1. Đẩy code lên git lần đầu( trên github chưa có nhánh master)
+
+git add -A 
+git commit -m " create demo git "
+git push -u origin master
+
+2. Đẩy lần 2 trở đi 
+
+git add -A 
+git commit -m ""
+git push 
