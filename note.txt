@@ -9,3 +9,8 @@ git push -u origin master
 git add -A 
 git commit -m ""
 git push 
+
+
+3. Tạo nhánh 
+
+git checkout -b [tên nhánh]
