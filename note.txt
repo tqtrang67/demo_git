@@ -18,3 +18,13 @@ git checkout -b [tên nhánh]
 4. Chuyển nhánh 
 
 git checkout [tên nhánh]
+
+5. Xem các nhánh đang có trong máy 
+git brach
+
+6.Gom code từ nhánh logon vào master( đứng từ nhánh chính master)
+
+git merge login
+
+7. Xung đột code ( conflict code) : xảy ra khi merge và pull
+=> tuỳ trường hợp sẽ option phù hợp nhất ( incomming, current, keep both)
